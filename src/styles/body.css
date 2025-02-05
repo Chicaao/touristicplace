@@ -1,3 +1,7 @@
+body {
+    margin: 1.8rem, 5rem, 3rem;
+}
+
 span {
     font-size: var(--fs-little);
     color: var(--text-headline);

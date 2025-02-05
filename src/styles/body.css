@@ -1,0 +1,14 @@
+span {
+    font-size: var(--fs-little);
+    color: var(--text-headline);
+}
+
+h1 {
+    font-size: var(--fs-h1);
+    color: var(--text-primary);
+}
+
+p {
+    font-size: var(--fs-little);
+    color: var(--text-primary);
+}

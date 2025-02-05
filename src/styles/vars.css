@@ -10,4 +10,12 @@
     --accent-pink: #e5245e;
     --accent-purple: #591b98;
     --ff-sans: 'Open Sans', sans-serif; 
+    --fs-h1: 36px;
+    --fs-h2: 32px;
+    --fs-h3: 28px;
+    --fs-little: 16px;
+    --fw-title: bold;
+    --fw-paragraph: regular;
+    --fw-subtitle: italic;
+    font-family: var(--ff-sans);
 }
